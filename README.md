@@ -1,4 +1,5 @@
 # Contact List
+A university project for Data Structures course at Federal University of Bahia.
 It was implemented a Contact list in C language. Each contact held the following data
 
 * ID
