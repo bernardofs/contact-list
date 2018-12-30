@@ -1,7 +1,7 @@
 # Contact List
 It was implemented a Contact list in C language. Each contact held the following data
 
-* Id
+* ID
 * Name
 * Last Name
 * Email
@@ -26,3 +26,8 @@ After that, the user can perform the following operations
 * Exit Program
 
 The Contact List in both methods were increasingly ordered by name. In order to compare the difference of complexity of time between the data structures, after each operation it is printed in output the its running time.
+
+The images below contain the time of operations measured in 5 different tests for each method
+
+![](https://github.com/bfs07/Contact-List/blob/master/OperationsInLinkedList.png)
+![](https://github.com/bfs07/Contact-List/blob/master/OperationsInAVLTree.png)
